@@ -9,8 +9,16 @@ body {
   height: 100px;
   width: 120px;
   border-radius: 25%;
+  flex-direction: column;
 }
 
 h1 {
   color: white;
+}
+
+img {
+  border-radius: 8px;
+  width: 200px;
+  height: 200px;
+  flex-direction: column;
 }
